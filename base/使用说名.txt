@@ -1,7 +1,0 @@
-
-
-1. 转化为utf-8
-
-2.  空白界面 右键 git bash
-
-3 git add //加tab键
