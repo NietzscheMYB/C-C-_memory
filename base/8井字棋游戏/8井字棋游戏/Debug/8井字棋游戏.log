@@ -1,0 +1,30 @@
+﻿生成启动时间为 2018/10/28 12:09:04。
+     1>项目“E:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\8井字棋游戏\8井字棋游戏\8井字棋游戏.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt game.c "井字棋游戏.c"
+         井字棋游戏.c
+     1>e:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\8井字棋游戏\8井字棋游戏\井字棋游戏.c(19): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+     1>e:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\8井字棋游戏\8井字棋游戏\井字棋游戏.c(21): warning C4013: “board_Init”未定义；假设外部返回 int
+     1>e:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\8井字棋游戏\8井字棋游戏\井字棋游戏.c(22): warning C4013: “Print”未定义；假设外部返回 int
+     1>e:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\8井字棋游戏\8井字棋游戏\井字棋游戏.c(25): warning C4013: “Manplayer_Move”未定义；假设外部返回 int
+     1>e:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\8井字棋游戏\8井字棋游戏\井字棋游戏.c(26): warning C4013: “Complayer_Move”未定义；假设外部返回 int
+     1>e:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\8井字棋游戏\8井字棋游戏\井字棋游戏.c(27): warning C4013: “Judge_Win”未定义；假设外部返回 int
+     1>e:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\8井字棋游戏\8井字棋游戏\井字棋游戏.c(39): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+         game.c
+     1>e:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\8井字棋游戏\8井字棋游戏\game.c(10): warning C4013: “memset”未定义；假设外部返回 int
+     1>e:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\8井字棋游戏\8井字棋游戏\game.c(51): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>e:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\8井字棋游戏\8井字棋游戏\game.c(57): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>e:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\8井字棋游戏\8井字棋游戏\game.c(153): warning C4013: “is_full”未定义；假设外部返回 int
+         正在生成代码...
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\8井字棋游戏\Debug\8井字棋游戏.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\8井字棋游戏\Debug\8井字棋游戏.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\8井字棋游戏\Debug\8井字棋游戏.lib" /MACHINE:X86 Debug\game.obj
+         "Debug\井字棋游戏.obj"
+         8井字棋游戏.vcxproj -> E:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\8井字棋游戏\Debug\8井字棋游戏.exe
+     1>已完成生成项目“E:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\8井字棋游戏\8井字棋游戏\8井字棋游戏.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.58
