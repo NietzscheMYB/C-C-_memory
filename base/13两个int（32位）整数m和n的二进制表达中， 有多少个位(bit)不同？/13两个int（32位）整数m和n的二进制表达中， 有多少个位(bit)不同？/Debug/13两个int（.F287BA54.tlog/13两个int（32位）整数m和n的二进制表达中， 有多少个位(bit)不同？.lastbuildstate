@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Debug|Win32|E:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\13两个int（32位）整数m和n的二进制表达中， 有多少个位(bit)不同？\|
