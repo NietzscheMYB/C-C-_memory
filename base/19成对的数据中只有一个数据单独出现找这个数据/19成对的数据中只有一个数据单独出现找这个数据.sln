@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19成对的数据中只有一个数据单独出现找这个数据", "19成对的数据中只有一个数据单独出现找这个数据\19成对的数据中只有一个数据单独出现找这个数据.vcxproj", "{D58DB696-13A7-47C8-B7DB-1788E11CBBFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D58DB696-13A7-47C8-B7DB-1788E11CBBFC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D58DB696-13A7-47C8-B7DB-1788E11CBBFC}.Debug|Win32.Build.0 = Debug|Win32
+		{D58DB696-13A7-47C8-B7DB-1788E11CBBFC}.Release|Win32.ActiveCfg = Release|Win32
+		{D58DB696-13A7-47C8-B7DB-1788E11CBBFC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
