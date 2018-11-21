@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "23实现一个函数可以左旋字符串中的k个字符", "23实现一个函数可以左旋字符串中的k个字符\23实现一个函数可以左旋字符串中的k个字符.vcxproj", "{C753918A-550B-4A1C-9AFA-C6149A474EF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C753918A-550B-4A1C-9AFA-C6149A474EF6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C753918A-550B-4A1C-9AFA-C6149A474EF6}.Debug|Win32.Build.0 = Debug|Win32
+		{C753918A-550B-4A1C-9AFA-C6149A474EF6}.Release|Win32.ActiveCfg = Release|Win32
+		{C753918A-550B-4A1C-9AFA-C6149A474EF6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
