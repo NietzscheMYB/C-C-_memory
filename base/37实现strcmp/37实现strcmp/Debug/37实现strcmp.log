@@ -1,0 +1,16 @@
+﻿生成启动时间为 2018/11/29 22:22:14。
+     1>项目“E:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\37实现strcmp\37实现strcmp\37实现strcmp.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "实现strcmp.c"
+         实现strcmp.c
+     1>e:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\37实现strcmp\37实现strcmp\实现strcmp.c(7): warning C4090: “初始化”: 不同的“const”限定符
+     1>e:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\37实现strcmp\37实现strcmp\实现strcmp.c(8): warning C4090: “初始化”: 不同的“const”限定符
+     1>e:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\37实现strcmp\37实现strcmp\实现strcmp.c(42): warning C4715: “My_strcmp”: 不是所有的控件路径都返回值
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\37实现strcmp\Debug\37实现strcmp.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\37实现strcmp\Debug\37实现strcmp.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\37实现strcmp\Debug\37实现strcmp.lib" /MACHINE:X86 "Debug\实现strcmp.obj"
+         37实现strcmp.vcxproj -> E:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\37实现strcmp\Debug\37实现strcmp.exe
+     1>已完成生成项目“E:\1学习资料\软件资料\myb敲的各种c语言程序\2vs2013\37实现strcmp\37实现strcmp\37实现strcmp.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.98
