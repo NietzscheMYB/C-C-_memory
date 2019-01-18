@@ -1,0 +1,25 @@
+﻿生成启动时间为 2019/1/18 9:51:53。
+     1>项目“E:\2myb的c程序\vs\蓝桥杯训练\25小明的密码\25小明的密码\25小明的密码.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "小明的密码.c"
+         小明的密码.c
+     1>e:\2myb的c程序\vs\蓝桥杯训练\25小明的密码\25小明的密码\小明的密码.c(13): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\2myb的c程序\vs\蓝桥杯训练\25小明的密码\25小明的密码\小明的密码.c(38): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\2myb的c程序\vs\蓝桥杯训练\25小明的密码\25小明的密码\小明的密码.c(71): warning C4047: “函数”:“char *”与“char (*)[100]”的间接级别不同
+     1>e:\2myb的c程序\vs\蓝桥杯训练\25小明的密码\25小明的密码\小明的密码.c(71): warning C4024: “Judge1”: 形参和实参 1 的类型不同
+     1>e:\2myb的c程序\vs\蓝桥杯训练\25小明的密码\25小明的密码\小明的密码.c(72): warning C4047: “函数”:“char *”与“char (*)[100]”的间接级别不同
+     1>e:\2myb的c程序\vs\蓝桥杯训练\25小明的密码\25小明的密码\小明的密码.c(72): warning C4024: “Judge2”: 形参和实参 1 的类型不同
+     1>e:\2myb的c程序\vs\蓝桥杯训练\25小明的密码\25小明的密码\小明的密码.c(73): warning C4047: “函数”:“char *”与“char (*)[100]”的间接级别不同
+     1>e:\2myb的c程序\vs\蓝桥杯训练\25小明的密码\25小明的密码\小明的密码.c(73): warning C4024: “Judge3”: 形参和实参 1 的类型不同
+     1>e:\2myb的c程序\vs\蓝桥杯训练\25小明的密码\25小明的密码\小明的密码.c(74): warning C4047: “函数”:“char *”与“char (*)[100]”的间接级别不同
+     1>e:\2myb的c程序\vs\蓝桥杯训练\25小明的密码\25小明的密码\小明的密码.c(74): warning C4024: “Judge4”: 形参和实参 1 的类型不同
+     1>e:\2myb的c程序\vs\蓝桥杯训练\25小明的密码\25小明的密码\小明的密码.c(24): warning C4715: “Judge1”: 不是所有的控件路径都返回值
+       Link:
+         D:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\2myb的c程序\vs\蓝桥杯训练\25小明的密码\Debug\25小明的密码.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\2myb的c程序\vs\蓝桥杯训练\25小明的密码\Debug\25小明的密码.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\2myb的c程序\vs\蓝桥杯训练\25小明的密码\Debug\25小明的密码.lib" /MACHINE:X86 "Debug\小明的密码.obj"
+         LINK : 没有找到 E:\2myb的c程序\vs\蓝桥杯训练\25小明的密码\Debug\25小明的密码.exe 或上一个增量链接没有生成它；正在执行完全链接
+         25小明的密码.vcxproj -> E:\2myb的c程序\vs\蓝桥杯训练\25小明的密码\Debug\25小明的密码.exe
+     1>已完成生成项目“E:\2myb的c程序\vs\蓝桥杯训练\25小明的密码\25小明的密码\25小明的密码.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.68
