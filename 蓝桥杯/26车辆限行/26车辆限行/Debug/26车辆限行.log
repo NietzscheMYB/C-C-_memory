@@ -1,0 +1,23 @@
+﻿生成启动时间为 2019/1/18 21:08:17。
+     1>项目“E:\2myb的c程序\vs\蓝桥杯训练\26车辆限行\26车辆限行\26车辆限行.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt "车辆限行.c"
+         车辆限行.c
+     1>e:\2myb的c程序\vs\蓝桥杯训练\26车辆限行\26车辆限行\车辆限行.c(57): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\2myb的c程序\vs\蓝桥杯训练\26车辆限行\26车辆限行\车辆限行.c(64): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\2myb的c程序\vs\蓝桥杯训练\26车辆限行\26车辆限行\车辆限行.c(87): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\2myb的c程序\vs\蓝桥杯训练\26车辆限行\26车辆限行\车辆限行.c(98): warning C4047: “函数”:“char *”与“char (*)[10]”的间接级别不同
+     1>e:\2myb的c程序\vs\蓝桥杯训练\26车辆限行\26车辆限行\车辆限行.c(98): warning C4024: “Judge”: 形参和实参 1 的类型不同
+     1>e:\2myb的c程序\vs\蓝桥杯训练\26车辆限行\26车辆限行\车辆限行.c(125): warning C4047: “函数”:“char *”与“char (*)[10]”的间接级别不同
+     1>e:\2myb的c程序\vs\蓝桥杯训练\26车辆限行\26车辆限行\车辆限行.c(125): warning C4024: “Limit”: 形参和实参 1 的类型不同
+     1>e:\2myb的c程序\vs\蓝桥杯训练\26车辆限行\26车辆限行\车辆限行.c(26): warning C4715: “Judge”: 不是所有的控件路径都返回值
+     1>e:\2myb的c程序\vs\蓝桥杯训练\26车辆限行\26车辆限行\车辆限行.c(47): warning C4715: “Limit”: 不是所有的控件路径都返回值
+       Link:
+         D:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\2myb的c程序\vs\蓝桥杯训练\26车辆限行\Debug\26车辆限行.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\2myb的c程序\vs\蓝桥杯训练\26车辆限行\Debug\26车辆限行.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\2myb的c程序\vs\蓝桥杯训练\26车辆限行\Debug\26车辆限行.lib" /MACHINE:X86 "Debug\车辆限行.obj"
+         LINK : 没有找到 E:\2myb的c程序\vs\蓝桥杯训练\26车辆限行\Debug\26车辆限行.exe 或上一个增量链接没有生成它；正在执行完全链接
+         26车辆限行.vcxproj -> E:\2myb的c程序\vs\蓝桥杯训练\26车辆限行\Debug\26车辆限行.exe
+     1>已完成生成项目“E:\2myb的c程序\vs\蓝桥杯训练\26车辆限行\26车辆限行\26车辆限行.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.65
