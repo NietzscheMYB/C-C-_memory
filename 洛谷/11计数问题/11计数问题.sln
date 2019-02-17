@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11计数问题", "11计数问题\11计数问题.vcxproj", "{AF4D1676-8DF6-48C9-923B-6C7A7BDA4A84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF4D1676-8DF6-48C9-923B-6C7A7BDA4A84}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AF4D1676-8DF6-48C9-923B-6C7A7BDA4A84}.Debug|Win32.Build.0 = Debug|Win32
+		{AF4D1676-8DF6-48C9-923B-6C7A7BDA4A84}.Release|Win32.ActiveCfg = Release|Win32
+		{AF4D1676-8DF6-48C9-923B-6C7A7BDA4A84}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
