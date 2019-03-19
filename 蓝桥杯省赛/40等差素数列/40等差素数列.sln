@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "40等差素数列", "40等差素数列\40等差素数列.vcxproj", "{17B8044A-D6F0-4AB5-8E0F-B1B8B8A1E269}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17B8044A-D6F0-4AB5-8E0F-B1B8B8A1E269}.Debug|Win32.ActiveCfg = Debug|Win32
+		{17B8044A-D6F0-4AB5-8E0F-B1B8B8A1E269}.Debug|Win32.Build.0 = Debug|Win32
+		{17B8044A-D6F0-4AB5-8E0F-B1B8B8A1E269}.Release|Win32.ActiveCfg = Release|Win32
+		{17B8044A-D6F0-4AB5-8E0F-B1B8B8A1E269}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
