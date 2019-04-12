@@ -1,0 +1,16 @@
+﻿生成启动时间为 2019/4/12 23:49:19。
+     1>项目“F:\2myb的c程序\vs\c++\IO流\IO流\IO流.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+     1>f:\2myb的c程序\vs\c++\io流\io流\main.cpp(20): error C2027: 使用了未定义类型“std::basic_ifstream<char,std::char_traits<char>>”
+     1>f:\2myb的c程序\vs\c++\io流\io流\main.cpp(20): error C2065: “in”: 未声明的标识符
+     1>f:\2myb的c程序\vs\c++\io流\io流\main.cpp(20): error C2065: “binary”: 未声明的标识符
+     1>f:\2myb的c程序\vs\c++\io流\io流\main.cpp(20): error C2079: “ofs”使用未定义的 class“std::basic_ofstream<char,std::char_traits<char>>”
+     1>f:\2myb的c程序\vs\c++\io流\io流\main.cpp(20): error C2440: “初始化”: 无法从“std::string”转换为“int”
+                 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+     1>已完成生成项目“F:\2myb的c程序\vs\c++\IO流\IO流\IO流.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.55
