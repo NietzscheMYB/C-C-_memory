@@ -1,0 +1,2 @@
+如果运行程序找不到dill
+将libmysql.dill 放到c盘 window system32 下就行

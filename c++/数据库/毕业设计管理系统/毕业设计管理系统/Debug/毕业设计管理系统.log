@@ -1,0 +1,25 @@
+﻿生成启动时间为 2019/7/2 8:48:54。
+     1>项目“F:\2myb的c程序\vs\数据库\毕业设计管理系统\毕业设计管理系统\毕业设计管理系统.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
+         Main.cpp
+       Link:
+         E:\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\2myb的c程序\vs\数据库\毕业设计管理系统\Debug\毕业设计管理系统.exe" /INCREMENTAL /NOLOGO libmysql.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\2myb的c程序\vs\数据库\毕业设计管理系统\Debug\毕业设计管理系统.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\2myb的c程序\vs\数据库\毕业设计管理系统\Debug\毕业设计管理系统.lib" /MACHINE:X86 Debug\Main.obj
+     1>Main.obj : error LNK2019: 无法解析的外部符号 _mysql_server_init@12，该符号在函数 _main 中被引用
+     1>Main.obj : error LNK2019: 无法解析的外部符号 _mysql_server_end@0，该符号在函数 _main 中被引用
+     1>Main.obj : error LNK2019: 无法解析的外部符号 _mysql_num_rows@4，该符号在函数 _main 中被引用
+     1>Main.obj : error LNK2019: 无法解析的外部符号 _mysql_num_fields@4，该符号在函数 _main 中被引用
+     1>Main.obj : error LNK2019: 无法解析的外部符号 _mysql_init@4，该符号在函数 _main 中被引用
+     1>Main.obj : error LNK2019: 无法解析的外部符号 _mysql_real_connect@32，该符号在函数 _main 中被引用
+     1>Main.obj : error LNK2019: 无法解析的外部符号 _mysql_query@8，该符号在函数 _main 中被引用
+     1>Main.obj : error LNK2019: 无法解析的外部符号 _mysql_store_result@4，该符号在函数 _main 中被引用
+     1>Main.obj : error LNK2019: 无法解析的外部符号 _mysql_free_result@4，该符号在函数 _main 中被引用
+     1>Main.obj : error LNK2019: 无法解析的外部符号 _mysql_fetch_row@4，该符号在函数 _main 中被引用
+     1>Main.obj : error LNK2019: 无法解析的外部符号 _mysql_fetch_field@4，该符号在函数 _main 中被引用
+     1>Main.obj : error LNK2019: 无法解析的外部符号 _mysql_close@4，该符号在函数 _main 中被引用
+     1>F:\2myb的c程序\vs\数据库\毕业设计管理系统\Debug\毕业设计管理系统.exe : fatal error LNK1120: 12 个无法解析的外部命令
+     1>已完成生成项目“F:\2myb的c程序\vs\数据库\毕业设计管理系统\毕业设计管理系统\毕业设计管理系统.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.01
