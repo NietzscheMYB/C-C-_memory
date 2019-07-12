@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "布隆", "布隆\布隆.vcxproj", "{C9AD552E-2A86-4CB5-ABF0-EABCCB5AA2B3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "位图", "..\位图\位图\位图.vcxproj", "{B1815982-644A-419F-A2F2-746E0582D1B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9AD552E-2A86-4CB5-ABF0-EABCCB5AA2B3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C9AD552E-2A86-4CB5-ABF0-EABCCB5AA2B3}.Debug|Win32.Build.0 = Debug|Win32
+		{C9AD552E-2A86-4CB5-ABF0-EABCCB5AA2B3}.Release|Win32.ActiveCfg = Release|Win32
+		{C9AD552E-2A86-4CB5-ABF0-EABCCB5AA2B3}.Release|Win32.Build.0 = Release|Win32
+		{B1815982-644A-419F-A2F2-746E0582D1B0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B1815982-644A-419F-A2F2-746E0582D1B0}.Debug|Win32.Build.0 = Debug|Win32
+		{B1815982-644A-419F-A2F2-746E0582D1B0}.Release|Win32.ActiveCfg = Release|Win32
+		{B1815982-644A-419F-A2F2-746E0582D1B0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
