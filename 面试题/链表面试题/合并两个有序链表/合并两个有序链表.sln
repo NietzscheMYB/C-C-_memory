@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "合并两个有序链表", "合并两个有序链表\合并两个有序链表.vcxproj", "{D9B01472-345C-45E5-AE0E-D4D0903A7F74}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "两数相加", "..\两数相加\两数相加\两数相加.vcxproj", "{63BCA46D-9768-4AD2-B7AB-163F981CA4BC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "删除链表倒数第N个节点", "..\删除链表倒数第N个节点\删除链表倒数第N个节点\删除链表倒数第N个节点.vcxproj", "{4131B560-413B-40BB-A219-B340A1918CAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9B01472-345C-45E5-AE0E-D4D0903A7F74}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D9B01472-345C-45E5-AE0E-D4D0903A7F74}.Debug|Win32.Build.0 = Debug|Win32
+		{D9B01472-345C-45E5-AE0E-D4D0903A7F74}.Release|Win32.ActiveCfg = Release|Win32
+		{D9B01472-345C-45E5-AE0E-D4D0903A7F74}.Release|Win32.Build.0 = Release|Win32
+		{63BCA46D-9768-4AD2-B7AB-163F981CA4BC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{63BCA46D-9768-4AD2-B7AB-163F981CA4BC}.Debug|Win32.Build.0 = Debug|Win32
+		{63BCA46D-9768-4AD2-B7AB-163F981CA4BC}.Release|Win32.ActiveCfg = Release|Win32
+		{63BCA46D-9768-4AD2-B7AB-163F981CA4BC}.Release|Win32.Build.0 = Release|Win32
+		{4131B560-413B-40BB-A219-B340A1918CAD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4131B560-413B-40BB-A219-B340A1918CAD}.Debug|Win32.Build.0 = Debug|Win32
+		{4131B560-413B-40BB-A219-B340A1918CAD}.Release|Win32.ActiveCfg = Release|Win32
+		{4131B560-413B-40BB-A219-B340A1918CAD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
