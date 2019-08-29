@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "删除排序链表中的重复元素", "删除排序链表中的重复元素\删除排序链表中的重复元素.vcxproj", "{0BAD64CB-5127-48DE-B9BF-062A4AE42E4F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "旋转链表", "..\旋转链表\旋转链表\旋转链表.vcxproj", "{90E40AFB-8C8A-4CDF-A79A-DD29DC9DE811}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BAD64CB-5127-48DE-B9BF-062A4AE42E4F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0BAD64CB-5127-48DE-B9BF-062A4AE42E4F}.Debug|Win32.Build.0 = Debug|Win32
+		{0BAD64CB-5127-48DE-B9BF-062A4AE42E4F}.Release|Win32.ActiveCfg = Release|Win32
+		{0BAD64CB-5127-48DE-B9BF-062A4AE42E4F}.Release|Win32.Build.0 = Release|Win32
+		{90E40AFB-8C8A-4CDF-A79A-DD29DC9DE811}.Debug|Win32.ActiveCfg = Debug|Win32
+		{90E40AFB-8C8A-4CDF-A79A-DD29DC9DE811}.Debug|Win32.Build.0 = Debug|Win32
+		{90E40AFB-8C8A-4CDF-A79A-DD29DC9DE811}.Release|Win32.ActiveCfg = Release|Win32
+		{90E40AFB-8C8A-4CDF-A79A-DD29DC9DE811}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
