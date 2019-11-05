@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "用两个栈实现队列", "用两个栈实现队列\用两个栈实现队列.vcxproj", "{35CF4639-FE19-4D8B-85C9-51E325F48276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35CF4639-FE19-4D8B-85C9-51E325F48276}.Debug|Win32.ActiveCfg = Debug|Win32
+		{35CF4639-FE19-4D8B-85C9-51E325F48276}.Debug|Win32.Build.0 = Debug|Win32
+		{35CF4639-FE19-4D8B-85C9-51E325F48276}.Release|Win32.ActiveCfg = Release|Win32
+		{35CF4639-FE19-4D8B-85C9-51E325F48276}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
