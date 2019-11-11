@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "旋转数组中的最小数字", "旋转数组中的最小数字\旋转数组中的最小数字.vcxproj", "{BEC5D108-8538-46B8-8585-31FFF6086527}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEC5D108-8538-46B8-8585-31FFF6086527}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BEC5D108-8538-46B8-8585-31FFF6086527}.Debug|Win32.Build.0 = Debug|Win32
+		{BEC5D108-8538-46B8-8585-31FFF6086527}.Release|Win32.ActiveCfg = Release|Win32
+		{BEC5D108-8538-46B8-8585-31FFF6086527}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
