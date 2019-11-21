@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "插入排序练习1", "插入排序练习1\插入排序练习1.vcxproj", "{8BE81648-7CC9-4814-B235-E805D6FF3E5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BE81648-7CC9-4814-B235-E805D6FF3E5D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8BE81648-7CC9-4814-B235-E805D6FF3E5D}.Debug|Win32.Build.0 = Debug|Win32
+		{8BE81648-7CC9-4814-B235-E805D6FF3E5D}.Release|Win32.ActiveCfg = Release|Win32
+		{8BE81648-7CC9-4814-B235-E805D6FF3E5D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
