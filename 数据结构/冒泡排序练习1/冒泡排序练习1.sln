@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "冒泡排序练习1", "冒泡排序练习1\冒泡排序练习1.vcxproj", "{956207E8-3110-47BF-8E1E-310A0F030AFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{956207E8-3110-47BF-8E1E-310A0F030AFD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{956207E8-3110-47BF-8E1E-310A0F030AFD}.Debug|Win32.Build.0 = Debug|Win32
+		{956207E8-3110-47BF-8E1E-310A0F030AFD}.Release|Win32.ActiveCfg = Release|Win32
+		{956207E8-3110-47BF-8E1E-310A0F030AFD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
