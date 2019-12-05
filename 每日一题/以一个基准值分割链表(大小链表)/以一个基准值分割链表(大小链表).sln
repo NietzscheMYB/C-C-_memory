@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "以一个基准值分割链表(大小链表)", "以一个基准值分割链表(大小链表)\以一个基准值分割链表(大小链表).vcxproj", "{78D889B3-39D9-4D5F-85B2-8BD8E01CE5C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78D889B3-39D9-4D5F-85B2-8BD8E01CE5C9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{78D889B3-39D9-4D5F-85B2-8BD8E01CE5C9}.Debug|Win32.Build.0 = Debug|Win32
+		{78D889B3-39D9-4D5F-85B2-8BD8E01CE5C9}.Release|Win32.ActiveCfg = Release|Win32
+		{78D889B3-39D9-4D5F-85B2-8BD8E01CE5C9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
